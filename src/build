@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc -I ./include main.c -o main.o
+echo DONE!
+read -p "[Press enter to continue]"
